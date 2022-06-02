@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ml07stH9THDkqZQIRDoG1fpxl9ACJ/FzH7X6v6GnzATRmzo0LJmzhG988K2FwJQLIB3lChBXkc6vO3eFThkGLQ==",
+  "success": true,
+  "projectFilePath": "G:\\SVN\\Backend Course\\Main Source\\Csharp_BackEnd_Course\\Csharp_BackEnd_Course.HelloAspNet.Helper\\Csharp_BackEnd_Course.HelloAspNet.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AliAkbar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

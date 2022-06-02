@@ -1,0 +1,10 @@
+Machine temperature changed from 36 to 37
+Machine temperature changed from 37 to 38
+Machine temperature changed from 38 to 39
+Machine temperature changed from 39 to 40
+Machine temperature changed from 40 to 41
+Machine temperature changed from 41 to 42
+Machine temperature changed from 42 to 43
+Machine temperature changed from 43 to 44
+Machine temperature changed from 44 to 45
+Machine temperature changed from 45 to 46

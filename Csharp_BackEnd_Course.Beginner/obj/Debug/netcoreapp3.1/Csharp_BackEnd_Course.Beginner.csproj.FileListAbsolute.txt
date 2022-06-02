@@ -1,0 +1,14 @@
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.exe
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.deps.json
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.runtimeconfig.json
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.runtimeconfig.dev.json
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.dll
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\bin\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.pdb
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.csproj.AssemblyReference.cache
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.GeneratedMSBuildEditorConfig.editorconfig
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.AssemblyInfoInputs.cache
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.AssemblyInfo.cs
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.csproj.CoreCompileInputs.cache
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.dll
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.pdb
+G:\SVN\Backend Course\Main Source\Csharp_BackEnd_Course\Csharp_BackEnd_Course.Beginner\obj\Debug\netcoreapp3.1\Csharp_BackEnd_Course.Beginner.genruntimeconfig.cache

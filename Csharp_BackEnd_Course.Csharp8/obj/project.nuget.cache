@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpW6OfO5moqpoWJD9ATv6/CeonQk7SFaJiBgPHGkheIVNpoM7aFgHlXlPgGNcg7vg1aiHHnvTvqSVs7ZNcm+Ig==",
+  "success": true,
+  "projectFilePath": "G:\\SVN\\Backend Course\\Main Source\\Csharp_BackEnd_Course\\Csharp_BackEnd_Course.Csharp8\\Csharp_BackEnd_Course.Csharp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AliAkbar\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

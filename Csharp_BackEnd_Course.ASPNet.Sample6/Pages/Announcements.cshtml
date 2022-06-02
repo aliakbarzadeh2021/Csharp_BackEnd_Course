@@ -1,0 +1,30 @@
+﻿@page
+@using Example5._8._1.Models;
+@using Example5._8._1.Services;
+@inject IAnnouncementsService service;
+
+@{ 
+    Layout = "_Layout";
+}
+
+@functions { 
+    public IEnumerable<Announcement> Announcements { get; set; }
+
+    public async Task<IActionResult> OnGetAsync()
+    {
+        Announcements = await service.GetAnnouncementsAsync();
+        return Page();
+    }
+}
+
+<h3 class="text-center">Announcements</h3>
+
+@foreach(var announcement in Announcements)
+{
+    <div class="row">
+        <div class="col-xs-12">
+            <h4>@announcement.Title</h4>
+            <p>@announcement.Content</p>
+        </div>
+    </div>
+}

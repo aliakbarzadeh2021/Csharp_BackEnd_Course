@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CircularLinkedList\" />
+    <Folder Include="JaggedArrays\" />
+    <Folder Include="LinkedLists\" />
+    <Folder Include="MultidimensionalArrays01\" />
+    <Folder Include="MultidimensionalArrays02\" />
+    <Folder Include="SortingAlgorithms\" />
+    <Folder Include="SortedLists\" />
+    <Folder Include="SingleDimensionalArrays\" />
+    <Folder Include="SimpleLists02\" />
+    <Folder Include="SimpleLists01\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QuickGraph" Version="3.6.61119.7" />
+  </ItemGroup>
+
+</Project>

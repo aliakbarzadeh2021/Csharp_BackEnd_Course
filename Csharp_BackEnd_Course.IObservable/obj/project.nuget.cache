@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3OCmc41gYir1Pne9qphziZdRd32V/ReY7NE5I9ZnIngq41m8/NENP+IEUK95pel/R8f9GBFr+z2Jfmj1b44fw==",
+  "success": true,
+  "projectFilePath": "G:\\SVN\\Backend Course\\Main Source\\Csharp_BackEnd_Course\\Csharp_BackEnd_Course.IObservable\\Csharp_BackEnd_Course.IObservable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AliAkbar\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
